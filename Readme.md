@@ -1,1 +1,0 @@
-This is a demo project for demonstrating GSAP animations in react web applications.
